@@ -1,0 +1,2 @@
+# The-Socioeconomic-Landscape-of-Gun-Violence-in-America-2014-2023-
+This project analyzes how poverty relates to gun violence across all 50 U.S. states from 2014–2023. Using state‑year data from the Gun Violence Archive and the U.S. Census Bureau (500 observations), it examines whether higher poverty rates predict higher gun violence rates, highlighting the socioeconomic inequalities underlying deaths and injuries.
