@@ -2,8 +2,8 @@
 
 ## A State-Level Analysis of Socioeconomic Drivers
 
-📅 **Published:** April 27, 2026  
-✍🏽 **Author:** Priscilla Sarfoa Anim  
+**Published:** April 27, 2026  
+**Author:** Priscilla Sarfoa Anim  
 
 ---
 
